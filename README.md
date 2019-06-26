@@ -10,5 +10,5 @@ SVM
 
 ###### Conclusions:
 1. BOW Featurization with linear kernel with grid search gives the best result.
-2. SGDClasiifier takes very less time to train.
+2. SGD Classifier takes very less time to train.
 <hr>
